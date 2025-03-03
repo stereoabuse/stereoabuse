@@ -1,1 +1,1 @@
-The code for the stereoabuse website
+Occasionally updates from projects on recreational coding, python, and lotr.
